@@ -8,5 +8,4 @@ func main() {
 		c.String(200, "hello world")
 	})
 	router.Run(":8080")
-
 }
